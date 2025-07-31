@@ -13,5 +13,18 @@ The dataset contains:
 - About The Pizza as it contains the size and price for each distinct pizza in the Order Details table, as well as its broader pizza type.'
 - The pizza types in the Pizzas table ,including their name as it appears on the menu, the category it falls under ,and its list of ingredients.
  ## Requirements
- 1)
+ 1) Create  Total Revenue in the Pizza
+ 2) Create Total Number of orders
+ 3) Create average order value
+ 4) Create total sales of pizza
+ 5) Create an average pizza per order
+ 6) Create a visual pizza size based analysis
+ 7) Create a visualization fo a peak order days
+ 8) Find total pizza revenue by category
+ 9) Find bottom and top selling pizzas
+ 10) Find the weekends and weekday order analysis
+ 11) Find top 5 ordered pizza
+ 12) Create a quantity analysis report for a Demand and supply analysis
+
+ - Dashborad Interaction <ahref="
 
