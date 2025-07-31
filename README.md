@@ -30,7 +30,7 @@ The dataset contains:
  ## Process
 1) Data Collection
 
--Imported pizza sales dataset containing order details, pizza categories, sizes, and revenue information.
+- Imported pizza sales dataset containing order details, pizza categories, sizes, and revenue information.
 
 2) Data Cleaning & Transformation
 
