@@ -26,5 +26,50 @@ The dataset contains:
  11) Find top 5 ordered pizza
  12) Create a quantity analysis report for a Demand and supply analysis
 
- - Dashborad Interaction <ahref="
+ - Dashborad Interaction <ahref="https://github.com/AnchalBharti-225/Pizza-Sales-Analysis-/blob/main/Pizza_sales_dashboard.png">View Dashboard</a>
+ ## Process
+1) Data Collection
 
+-Imported pizza sales dataset containing order details, pizza categories, sizes, and revenue information.
+
+2) Data Cleaning & Transformation
+
+- Removed null values and duplicates.
+
+3) Standardized date and time formats.
+
+- Created calculated columns for metrics like Avg_order_value and Avg_pizza_ordered.
+
+4) Data Modeling
+
+- Established relationships between tables.
+
+5) Created DAX measures for:
+
+- Total Revenue
+
+- Total Orders
+
+- Average Order Value
+
+- Average Pizza Ordered
+
+6) Dashboard Design
+
+- Implemented KPIs using cards.
+
+- Used bar charts, line graphs, and pie charts for visual analysis.
+
+- Added slicers for category-based filtering.
+
+## Dashboard
+<img width="1189" height="658" alt="Pizza_sales_dashboard" src="https://github.com/user-attachments/assets/c69f79d0-cf07-4d2d-b0de-088e60391ab6" />
+
+## Key Insights:
+- Friday records the highest number of orders (~8.2K).
+
+- Classic pizzas contribute the most to revenue.
+
+- Large size pizzas are the most preferred.
+
+- The Classic Deluxe Pizza tops the sales list, while The Brie Carre Pizza ranks lowest.
